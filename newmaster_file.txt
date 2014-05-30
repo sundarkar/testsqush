@@ -1,7 +1,4 @@
 here new file to get added in the master
 Here i have add this over on git file hows that
-<<<<<<< HEAD
 Here we ill adde in test_S brancjhe okits
-=======
 add more senteance to master
->>>>>>> master
